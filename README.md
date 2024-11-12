@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @pressfn because I press the fn key very often by mistake
+- 👀 I’m interested in learning Rust
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on any fun project that is written in Rust
+- 📫 How to reach me: write me 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I don't like coffee 
